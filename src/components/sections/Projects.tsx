@@ -58,6 +58,7 @@ export function Projects() {
                     src={project.image}
                     alt={project.title}
                     fill
+                    priority={project.id === "betaxlog-rotas"}
                     sizes="(max-width: 768px) 100vw, 50vw"
                     className="object-cover object-top transition-transform duration-700 ease-out group-hover:scale-105"
                   />
