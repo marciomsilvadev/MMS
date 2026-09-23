@@ -54,7 +54,7 @@ export const PORTFOLIO_DATA = {
     whatsappNumber: "5511999999999",
     whatsappUrl: "https://wa.me/5511999999999?text=Ol%C3%A1%20Marcio!%20Vi%20seus%20projetos%20no%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20conversar%20sobre%20uma%20solu%C3%A7%C3%A3o%20digital%20para%20minha%20empresa.",
     social: {
-      github: "https://github.com",
+      github: "https://github.com/marciomsilvadev",
       linkedin: "https://linkedin.com",
       email: "marciomsilva.dev@gmail.com",
     },
