@@ -89,9 +89,13 @@ export function Contact() {
               <div className="flex items-center justify-between p-3.5 rounded-xl bg-zinc-950/80 border border-white/10 hover:border-amber-500/30 transition-all">
                 <div className="flex items-center gap-2.5 overflow-hidden">
                   <Mail className="w-4 h-4 text-amber-400 shrink-0" />
-                  <span className="text-sm font-mono text-zinc-200 truncate">
+                  <a
+                    href={`mailto:${profile.social.email}`}
+                    className="text-sm font-mono text-zinc-200 hover:text-amber-300 transition-colors truncate"
+                    title="Enviar e-mail direto"
+                  >
                     {profile.social.email}
-                  </span>
+                  </a>
                 </div>
                 <button
                   onClick={handleCopyEmail}

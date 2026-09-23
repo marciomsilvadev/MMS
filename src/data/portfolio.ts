@@ -56,7 +56,7 @@ export const PORTFOLIO_DATA = {
     social: {
       github: "https://github.com",
       linkedin: "https://linkedin.com",
-      email: "contato@marcio.design",
+      email: "marciomsilva.dev@gmail.com",
     },
     stats: [
       { label: "Experiência em TI", value: "+20 Anos" },
