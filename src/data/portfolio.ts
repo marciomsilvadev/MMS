@@ -136,7 +136,7 @@ export const PORTFOLIO_DATA = {
     {
       id: "betaxlog-rotas",
       title: "BetaX Log — Sistema de Gestão de Rotas & Frotas",
-      url: "https://gerenciamento-rotas-betaxlog.vercel.app/painel",
+      url: "https://gerenciamento-rotas-betaxlog.vercel.app/",
       displayUrl: "gerenciamento-rotas-betaxlog.vercel.app",
       category: "SaaS & Sistema Web Operacional",
       badge: "SaaS em Produção",
